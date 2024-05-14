@@ -1,5 +1,5 @@
 
- 
+<pre> 
 ────────────────────────────────────────────────────<br>
 ─██████████████─██████──████████─████████──████████─<br>
 ─██░░░░░░░░░░██─██░░██──██░░░░██─██░░░░██──██░░░░██─<br>
@@ -28,5 +28,5 @@ Other than that, I love the algorithmic feeling of solving real/virtual world pr
 I used to work with Python 3/2, but now, Julia is my jam for getting into coding projects. For the future I have plans to learn C/C++ learning the basic of computings and computers more.<br>
 
 ...
-
+</pre>
 
