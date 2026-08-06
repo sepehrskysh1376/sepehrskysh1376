@@ -4,8 +4,8 @@
 
                                   _.-"""-._
                             _    /     (#\ \           _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-    _.-"""-._           .nNNNNNn:       \#) :         |                                           |
-   /     (#\ \_.-"""-._/NNNNN(#\N\         /          |  I'm, Sepehr, here to ...                 |
+    _.-"""-._ _.-"""-._ .nNNNNNn:       \#) :         |                                           |
+   /     (#\ \         /NNNNN(#\N\         /          |  I'm, Sepehr, here to ...                 |
   :       \#) |.:|||:.|NNNNNNN\#)N"-.___.-"           |    Simulate to see the unseens,           |
    \         /|||||(#\|\NNNNNNNNN/                    |      Model to make my mind real,          |            
     "-.___.-"||||||\#)||"*NNNNN*"                     |        Program to be think in 0 && 1s,    |
