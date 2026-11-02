@@ -8,7 +8,7 @@
    /     (#\ \/       \/NNNNN(#\N\         /          |  I'm, Sepehr, here to ...                 |
   :       \#) |.:|||:.|NNNNNNN\#)N"-.___.-"           |    Simulate to see the unseens,           |
    \         /|||||(#\|\NNNNNNNNN/                    |      Model to make my mind real,          |            
-    "-.___.-"||||||\#)||"*NNNNN*"                     |        Program to be think in 0 && 1s,    |
+    "-.___.-"|||||||\#)|"*NNNNN*"                     |        Program to be think in 0 && 1s,    |
              \|||||||||/                              |          And to Live to be in the moment. |
               `":|||:"'                               |_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|
               .-"   "-.
